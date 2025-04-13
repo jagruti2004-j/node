@@ -1,4 +1,4 @@
-![Base](logo.webp)
+Created by Jagruti
 
 # Base node
 
